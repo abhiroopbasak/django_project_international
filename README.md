@@ -1,1 +1,1 @@
-# django_project_international
+# django project international
